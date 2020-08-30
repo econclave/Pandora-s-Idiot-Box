@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Pandora's (Idiot) Box
 
-You can use the [editor on GitHub](https://github.com/econclave/Pandora-s-Idiot-Box/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Greek mythology has played a great role in shaping the world by delivering many tales and accompanying them with morals and values to reckon with. Another unique feature about their tales is that they are relevant at any point of time, which is their greatest success. One of the most fabled tales of all is the story of _Pandora’s Box_.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It follows the story where Zeus, the supreme god, gives a box to a little girl named Pandora. He strictly warns her to not open the box. But Pandora’s curiosity gets the better of her and she ends up opening the box, which eventually results into intoxicating the world with all possible negativity; greed, misery, pain, sickness, death and many other unspecified evils. But the last spirit in the box was, hope, the single cure for the other evils.
 
-### Markdown
+In the recent times, the Pandora’s Box can be compared to the idiot’s box (television). Once we turn it on, it comes out with all its offerings, different channels, to trouble us in many ways. The sad irony is that, we go to the television to get relaxed but after an hour of sitting in front of the television, we get irritated the most. Humans have a natural aversion towards numbers. The channel numbers appearing on top the channel may be an additional annoyance. But, quiet recently, we also see another set of numbers appearing beside the channel name. And why is this so? The Telecom Regulation Authority of India (TRAI) has ordered every DTH operator to publish the tariffs for each channel. So what has TRAI done, and what the politics behind it?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The TRAI has come up with a new regulation, where the customers can choose the channels that they want to view, enabling them to customize their package. Viewers are required to pay a basic rate of Rs. 130 plus tax which includes 100 free channels and from here onwards, they can choose specific channels on an a la carte basis or on package basis. There are different slab rates for standard definition channels and high definition channels. With this move, TRAI advocates that, the cable bill of consumers would take a slash without compromising their choice and also saves time for them by not having to surf through unnecessary channels, which was the case earlier. But there is more to it.
 
-```markdown
-Syntax highlighted code block
+![The New Pandora's Box](https://images.unsplash.com/photo-1567606404787-ebd010176fdf?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
 
-# Header 1
-## Header 2
-### Header 3
+Recently, the enthusiasm of web series has increased and has consequently increased its viewership base. Also, many online entertainment channels have taken ground, which keeps people engaged. Many entertainment channels have also launched applications (apps) to stay in the trend. This is spelling the doom for television channels, which are losing popularity. This has greatly punctured the wallets of the entertainment channel’s owners. They are losing revenue. Leading Ratings Company has reported that, under the new regulation, the customer bill would increase by a minimum 25%. That too, the increase in revenue would accrue completely to the big players. And how’s that?
 
-- Bulleted
-- List
+Earlier when all channels used to operate, there was greater choice for the viewers, who would accidently end up in a channel while surfing, which they had not even known before. If they end up liking its content, then they would continue to watch it. And this would apply to all channels, where they had hope of getting more viewers if they had promising content. But under the new regulation, all the new players or relatively-less popular player are just pushed out of the television entertainment industry. Here, they are forced to give their channels at free of cost, so that it doesn’t burden the viewers. But, this can’t continue in the long run, where they have to exit. Also, decrease in their Target Rating Point (TRP) would impact their earnings.
 
-1. Numbered
-2. List
+The big players can handle the losses in the initial few years but eventually, after becoming the monopoly, they can charge very high rates, where the viewer has no option but to pay. To start with, they give very exciting channel packages containing a bouquet of their channels at very low rates. After we get addicted to it, which they will know after TRP analysis, the rates will surge burdening the viewers.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/econclave/Pandora-s-Idiot-Box/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The ‘Best Fit Packs’ are also offered by the TRAI for those viewers who fail to subscribe to their customized choice. But, the best choice from the customer’s side would be to, take this as an opportunity to come out from their addiction of television and spend time in more productive activities.
